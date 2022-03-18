@@ -10,4 +10,4 @@
 
 ### TOPICS
 1. Time series<br />
-    1.1. [long term extension through MCP & remodeling](long-term-extension-mcp-remodeling.ipynb): combining reference (long) data with good accuracy (measurements) data to enhace the long term reference data. 
+    1.1. [long term extension through MCP & remodeling](long-term-extension-mcp-remodeling/): combining reference (long) data with good accuracy (measurements) data to enhace the long term reference data. 

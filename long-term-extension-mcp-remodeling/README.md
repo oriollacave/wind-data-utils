@@ -11,4 +11,4 @@
 
 
 ### Notebooks:
-1. [Reading datasets](reading-datasets.ipynb) we are reading the datasets using python. We read both txt and netcdf files and store in xarray/pandas objects.
+1. [Reading datasets](reading-datasets.ipynb) we are reading the datasets using python. We read both txt and netcdf files and store in xarray/pandas objects. We set a first check to measurements and reference serie and get some accuracy parameters and usefull graphs to analyse the wind patterns and climatological deviations of the measurement period.
